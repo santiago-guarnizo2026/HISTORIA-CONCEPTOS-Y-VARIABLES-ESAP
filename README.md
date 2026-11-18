@@ -1,6 +1,6 @@
-# HISTORIA, CONCEPTOS Y VARIABLES - ESAP
+# Distribucion de frecuencias
 
-**Taller 2 • Escuela Superior de Administración Pública (ESAP)**
+**TALLER 2 Tablas y graficas • Escuela Superior de Administración Pública (ESAP)**
 
 ---
 

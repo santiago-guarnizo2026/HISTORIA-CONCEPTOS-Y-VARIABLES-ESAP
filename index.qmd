@@ -1,13 +1,13 @@
 ---
-title: "HISTORIA, CONCEPTOS Y VARIABLES ESAP"
-subtitle: "TALLER_2"
+title: "Distribucion de frecuencias"
+subtitle: "TALLER 2 Tablas y graficas"
 author: 
   - name: Pablo Santiago Triana Guarnizo<br>Carol Mariana Boton Soto<br>Yessica Melisa Morales Soto
     affiliation: "Escuela Superior De Administracion Publica"
     affiliation-url: "https://www.esap.edu.co/"
 date: today
 lang: es
-title-block-banner: "#B7F527"
+title-block-banner: "#98B6ED"
 
 format:
   html:
